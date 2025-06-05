@@ -1,0 +1,48 @@
+{
+  "en": {
+    "web3": [
+      {
+        "title": "Web3 Project Raises $15M",
+        "summary": "Decentralized platform secures funding for scaling operations.",
+        "url": "https://example.com/news/web3-project"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin Hits $75K",
+        "summary": "The price of Bitcoin has reached a new all-time high.",
+        "url": "https://example.com/news/bitcoin"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AI Model Writes Symphony",
+        "summary": "A new AI system composed an entire orchestral score.",
+        "url": "https://example.com/news/ai-symphony"
+      }
+    ]
+  },
+  "es": {
+    "web3": [
+      {
+        "title": "Proyecto Web3 recauda $15M",
+        "summary": "Plataforma descentralizada obtiene financiación para escalar operaciones.",
+        "url": "https://example.com/es/news/web3-project"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin alcanza $75K",
+        "summary": "El precio de Bitcoin ha alcanzado un nuevo máximo histórico.",
+        "url": "https://example.com/es/news/bitcoin"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Modelo de IA escribe sinfonía",
+        "summary": "Un nuevo sistema de IA compuso una partitura orquestal completa.",
+        "url": "https://example.com/es/news/ai-symphony"
+      }
+    ]
+  }
+}
